@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasDeParametresAmbSubactivities</string>
+    <string name="titol_app">Exemple de Pas de Paràmetres amb Subactivities</string>
+    <string name="titol_a1">Activity 1</string>
+    <string name="titol_a2">Activity 2</string>
+    <string name="boto_passar_parametres">Passar Paràmetres</string>
+    <string name="missatge1_a2">He rebut per paràmetres les següents dades:</string>
+</resources>
