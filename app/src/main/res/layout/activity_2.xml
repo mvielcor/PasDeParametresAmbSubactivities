@@ -110,4 +110,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/ch_dades_correctes" />
     </ScrollView>
+
+
 </android.support.constraint.ConstraintLayout>
